@@ -1,0 +1,11 @@
+.wrapper {
+  width: 400px;
+}
+.box {
+  padding: 1em;
+  border-radius: 1em;
+  border: 5px solid rebeccapurple;
+  background-color: lightblue;
+  width: calc(20% + 100px);
+  /*height: 10em; Lo pusimos como ejemplo para el salon donde pregunte si se podia hacer mas curvo y me dijo que si, pq yo modifique el border radius pq me llego hasta 9, y me dijo que cuanta mas heigth, mas curvo puedo hacer el div*/
+}

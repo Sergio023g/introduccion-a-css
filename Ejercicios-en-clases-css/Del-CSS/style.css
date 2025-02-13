@@ -1,0 +1,16 @@
+.hex {
+  background-color: #85dffa;
+}
+
+/* Add styles here */
+.rgb {
+  background-color: rgb(133, 223, 250);
+}
+
+.hsl {
+  background-color: hsl(194, 92%, 75%);
+}
+
+.transparency {
+  background-color: rgba(133, 223, 250, 0.6);
+}
